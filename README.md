@@ -65,7 +65,7 @@ I'm a **Cloud Devops Engineer ** specializing in **Development, DevOps, and Plat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-j-b7350913a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samyak.99/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyakj741@gmail.com)
+[![Email](https://img.shields.io/badge/Email-samyakj741@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyakj741@gmail.com)
 
 </div>
 
